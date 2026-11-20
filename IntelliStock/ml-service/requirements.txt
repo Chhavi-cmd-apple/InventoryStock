@@ -1,0 +1,10 @@
+fastapi[standard]
+uvicorn[standard]
+numpy==2.2.4
+scikit-learn==1.6.1
+sqlalchemy==2.0.40
+psycopg2-binary==2.9.10
+python-dotenv==1.1.0
+joblib==1.4.2
+
+
